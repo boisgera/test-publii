@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Test Publii",
+    "description": "",
+    "home_page_url": "https://boisgera.github.io/test-publii",
+    "feed_url": "https://boisgera.github.io/test-publii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Eul"
+    },
+    "items": [
+        {
+            "id": "https://boisgera.github.io/test-publii/big-otitle.html",
+            "url": "https://boisgera.github.io/test-publii/big-otitle.html",
+            "title": "Big O&#x27;Title",
+            "summary": "jkfjds fdlk jflkds jflkdsjf lkdsjf dslkfj dslkfjdsflkdsjf fkdsmlkfdsmlfkdsmlfkdsmlfkdsmlfkdsfldskfmldskfdsf warning !",
+            "content_html": "<p>jkfjds fdlk jflkds jflkdsjf lkdsjf dslkfj dslkfjdsflkdsjf</p>\n<p> </p>\n<p>fkdsmlkfdsmlfkdsmlfkdsmlfkdsmlfkdsfldskfmldskfdsf</p>\n<p> </p>\n<p class=\"msg msg--info\">warning !</p>",
+            "author": {
+                "name": "Eul"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-28T16:35:49+02:00",
+            "date_modified": "2022-07-28T16:35:49+02:00"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Test Publii</title>
+    <link href="https://boisgera.github.io/test-publii/feed.xml" rel="self" />
+    <link href="https://boisgera.github.io/test-publii" />
+    <updated>2022-07-28T16:35:49+02:00</updated>
+    <author>
+        <name>Eul</name>
+    </author>
+    <id>https://boisgera.github.io/test-publii</id>
+
+    <entry>
+        <title>Big O&#x27;Title</title>
+        <author>
+            <name>Eul</name>
+        </author>
+        <link href="https://boisgera.github.io/test-publii/big-otitle.html"/>
+        <id>https://boisgera.github.io/test-publii/big-otitle.html</id>
+
+        <updated>2022-07-28T16:35:49+02:00</updated>
+            <summary>
+                <![CDATA[
+                    jkfjds fdlk jflkds jflkdsjf lkdsjf dslkfj dslkfjdsflkdsjf fkdsmlkfdsmlfkdsmlfkdsmlfkdsmlfkdsfldskfmldskfdsf warning !
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>jkfjds fdlk jflkds jflkdsjf lkdsjf dslkfj dslkfjdsflkdsjf</p>
+<p> </p>
+<p>fkdsmlkfdsmlfkdsmlfkdsmlfkdsmlfkdsfldskfmldskfdsf</p>
+<p> </p>
+<p class="msg msg--info">warning !</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
